@@ -13,5 +13,12 @@
 - 💬 Ask me about **React**
 - 📫 How to reach me: 📝<a href="https://minonarchrd.gitee.io">Blog</a>  🍻<a href="https://space.bilibili.com/9964933">BiliBili</a>
 
+<details>
+	<summary>🧑‍💻 &nbsp About Me</summary>
+    <p>
+        Try hard to be a Codeman master!
+    </p>
+</details>
+
 
 
