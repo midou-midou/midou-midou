@@ -10,9 +10,9 @@
 
 ![](https://static.xiaoblogs.cn/img/githubKizunaAIbanner.gif)
 
-- 🌱 I’m currently learning **vue.js, nuxt.js,front-end knowledge,go,kubernetes,microservice**
+- 🌱 I’m currently learning **nuxt.js,front-end knowledge,go**
 - 🤔 I’m looking for help, **how to be good at coding**
-- 💬 Ask me about **React,Redux,ECMAScript,Pomelo,next.js**
+- 💬 Ask me about **React,Redux,ECMAScript,Pomelo,Next.js,Vue.js**
 - 📫 How to reach me: 📝<a href="https://www.xiaoblogs.cn" target="_blank">Blog</a>  🍻<a target="_blank" href="https://space.bilibili.com/9964933">BiliBili</a>
 
 <details>
